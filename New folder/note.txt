@@ -1,0 +1,32 @@
+In today session we implemnet inheritance
+second, types of inheritance:
+     (1)  single inheritance   
+     
+            parent----->child
+     
+     
+     
+     
+     (2)  multiple inheritance 
+     
+                x
+              y    z
+     
+     
+     (3)  multilevel inheritance 
+     
+             y<-------x------->z
+     (4)  hybrid inheritance 
+         # no particular pattern follow
+     
+     (5)  hierchial inheritance 
+                            z
+                     x          y
+                  p      q   r     s
+
+after types of inhertiance,we study constructor using __inhit__() 
+    same name as class
+    initailze class and object
+
+and show the  parent child relation using constructor
+ 
